@@ -1,0 +1,32 @@
+BMU LAW CAREERS — GITHUB PAGES UPLOAD
+======================================
+
+YOUR LIVE URL (after upload):
+https://tejbmu07.github.io/bmulawcareers/
+
+STEP 1 — Create a NEW GitHub repo
+  Name it exactly: bmulawcareers
+
+STEP 2 — Upload this zip
+  1. Unzip this file
+  2. Open your new repo on GitHub
+  3. Click "Add file" → "Upload files"
+  4. Drag ALL unzipped files/folders into the upload area
+     (index.html, assets/, images/, candidates/, etc.)
+  5. Make sure they land at the ROOT of the repo — not inside a subfolder
+  6. Click "Commit changes"
+
+STEP 3 — Enable GitHub Pages
+  1. Repo → Settings → Pages
+  2. Source: Deploy from a branch
+  3. Branch: main → folder: / (root) → Save
+
+STEP 4 — Wait 1-2 minutes, then visit:
+  https://tejbmu07.github.io/bmulawcareers/
+
+  Hard refresh: Cmd + Shift + R
+
+NOTES
+  - Do NOT visit tejbmu07.github.io alone — that URL has no site
+  - The .nojekyll file is included (required for CSS/JS to load)
+  - JS/CSS is in the "assets" folder (not _next) so GitHub can't block it
